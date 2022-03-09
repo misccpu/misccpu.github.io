@@ -4,6 +4,6 @@ ul {
 }
 
 div {
-    word-wrap: break-word;
-    width: 100px
+    word-wrap : break-word;
+    width: 1000px
 }
